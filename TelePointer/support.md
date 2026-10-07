@@ -4,17 +4,19 @@ title: TelePointer Support
 
 # TelePointer
 
-TelePointer lets you control the mouse pointer from the keyboard on macOS. It lives in the menu bar and has no Dock icon.
+TelePointer lets you control the mouse pointer entirely from the keyboard on macOS. It is built for people who find a mouse or trackpad difficult or impossible to use — because of limited fine motor control, tremors, pain, or repetitive strain — but who can press keys.
+
+TelePointer lives in the menu bar and has no Dock icon.
 
 ## Default Shortcuts
 
 | Action | Shortcut |
 | --- | --- |
-| Move to the center of the next display | ⌃⌥C |
 | Move up / left / down / right (accelerates while held) | ⌃⌥I / J / K / L |
 | Move at a steady speed | ⌃⌥⌘I / J / K / L |
 | Left click | ⌃⌥X |
 | Right click | ⌃⌥V |
+| Move to the center of the next display | ⌃⌥C |
 
 Every shortcut can be changed in **Settings…** from the menu bar icon.
 
